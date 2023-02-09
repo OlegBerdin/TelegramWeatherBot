@@ -1,0 +1,11 @@
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\TelegramWeatherBot.exe.config
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\TelegramWeatherBot.exe
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\TelegramWeatherBot.pdb
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.csproj.AssemblyReference.cache
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.csproj.SuggestedBindingRedirects.cache
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.csproj.CoreCompileInputs.cache
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.csproj.CopyComplete
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.exe
+C:\Users\olegb\source\repos\TelegramWeatherBot\TelegramWeatherBot\obj\Debug\TelegramWeatherBot.pdb
